@@ -1,0 +1,5 @@
+=== My Open Source Manifesto ===
+Author : chiklu
+Date   : 29 March 2026
+
+I believe that software should empower rather than restrict. The tool I rely on daily, Git, represents this philosophy perfectly. To me, open source is synonymous with Transparency — it ensures that code remains a public good, not a locked box. Standing on the shoulders of the community, I pledge to build an AI-powered learning platform and share it freely, so others may learn from my work just as I have learned from theirs.
